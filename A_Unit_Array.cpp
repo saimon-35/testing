@@ -36,9 +36,5 @@ while(t--){
         }
         cout << ans << endl;
      }
-     ///
-     kjdhjk
-     kjdhkjs
-     kjhdjksd
 }
 }
