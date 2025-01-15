@@ -36,14 +36,6 @@ while(t--){
         }
         cout << ans << endl;
      }
-     ///
-     kjdhjk
-     kjdhkjs
-     kjhdjksd
-     kjhskjdh
-     jkhsdjkh
-     jfkfksd
-     jsdhkjh
      #include <bits/stdc++.h>
      using namespace std;
      
